@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color:white;
+}
+
+.link-header {
+    color: #AB845E;
+    background-color: #2A1500;
+    padding:5px;
+    border: 3px double #2A1500;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+header {
+    padding:20px;
+    background-color: #0E0700;
+    margin: 15px;
+}
+
+h1 {
+    color: #AB6F34;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:15px;
+}
+
+li {
+    color: #2A1500;
+    font-size:20px;
+}
+
+p {
+    color: #2A1500;
+}
+
+ul {
+    list-style:url(https://i.ibb.co/PTHPp7w/Rectangle-1-1.jpg);
+}
+
+footer  {
+    background-color: #0E0700;
+    border: 1px solid #0E0700;
+    border-radius: 10px;
+    padding:10px;
+}
+
+.social {
+    margin-left:20px;
+}
+
+.link-text {
+    text-decoration: none;
+    color: #0E0700;
+}
+
+.link-nav {
+    text-decoration: none;
+    color: #2A1500;
+    background-color: #AB845E;
+    border: #AB845E 3px solid;
+    border-radius:10px ;
+    padding: 5px;
+    margin-right: 15px;
+}
